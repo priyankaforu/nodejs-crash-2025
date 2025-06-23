@@ -1,0 +1,15 @@
+{
+  "name": "nodejs-crash-2025",
+  "version": "1.0.0",
+  "description": "A practise project",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "nodemon --env-file=.env exercise_odin.js"
+  },
+  "author": "Priyanka Pudi",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^3.1.10"
+  }
+}
